@@ -1,0 +1,343 @@
+body{
+    margin: 0px;
+    margin-top: 0px;
+}
+#commentbar{
+    background-color: black;
+    display: flex;
+    height: 34px;
+    font-size: 10px;
+    padding: 3px;
+    color: white;
+}
+#comment{
+    background-color: black;
+    text-align: center;
+    margin-left: 650px;
+    justify-content: space-around;
+    align-items: center;
+}
+#firstcomment{
+   
+    /* font-weight: bold; */
+    letter-spacing: 3px;
+    /* font-size: 18px; */
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Gabarito', cursive;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Flex', sans-serif; 
+   
+}
+#nav{
+    width: 100%;
+    height: 80px;
+    background-color: black;
+    border-top: 0.1px;
+    display: flex;
+    border-top: solid rgb(25, 20, 20);
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    
+}
+#paperlogo{
+    width: 150px;
+    height: 50px;
+    /* background-color: aqua; */
+    margin-left: 145px;
+    margin-top: 20px;
+}
+#navhome{
+    width: 350px;
+    height: 80px;
+    /* background-color: blue; */
+   display: flex;
+}
+#home{
+    flex: 1;
+/* border:1px solid white ; */
+display: flex;
+justify-content: center;
+align-items: center;
+letter-spacing: 3px;
+    font-size: 18px;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Gabarito', cursive;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Flex', sans-serif; 
+}
+#texthome:hover{
+    color: white;
+    /* text-decoration: underline; */
+      /* border-bottom: 3px solid white; */
+    text-decoration-line: underline 2px;
+}
+#textabout:hover{
+    color: white;
+    text-decoration: underline;
+    text-decoration-line: underline 2px;
+}
+#textcatalogue:hover{
+    color: white;
+    text-decoration: underline;
+}
+#texthome:hover{
+    color: white;
+    text-decoration: underline;
+    text-decoration-line: underline 2px;
+}
+#texttrack:hover{
+    color: white;
+    text-decoration: underline;
+    text-decoration-line: underline 2px;
+}
+#about{
+    flex: 1;
+    /* border:1px solid white ; */
+    display: flex;
+justify-content: center;
+align-items: center;
+letter-spacing: 3px;
+    font-size: 18px;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Gabarito', cursive;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Flex', sans-serif; 
+    
+  
+   
+}
+#catalogue{
+    flex: 1;
+    display: flex;
+justify-content: center;
+align-items: center;
+/* letter-spacing: 3px; */
+font-size: 18px;
+font-family: 'Bricolage Grotesque', sans-serif;
+font-family: 'Gabarito', cursive;
+font-family: 'Heebo', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Flex', sans-serif;   
+    
+}
+#track{
+    flex: 1;
+    /* border:1px solid white ; */
+    display: flex;
+justify-content: center;
+align-items: center;
+/* letter-spacing: 3px; */
+font-size: 18px;
+font-family: 'Bricolage Grotesque', sans-serif;
+font-family: 'Gabarito', cursive;
+font-family: 'Heebo', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Flex', sans-serif;    
+   
+}
+#texthome{
+    /* font-family: 'Bricolage Grotesque', sans-serif; */
+    /* font-size: 13px; */
+    color: rgb(232, 225, 225);
+    /* letter-spacing: 1px; */
+}
+#textabout{
+    /* font-family: 'Bricolage Grotesque', sans-serif; */
+    font-size: 13px;
+    color: rgb(232, 225, 225);
+    letter-spacing: 1px;
+}
+#textcatalogue{
+    /* font-family: 'Bricolage Grotesque', sans-serif; */
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: rgb(232, 225, 225);
+}
+#texttrack{
+    /* font-family: 'Bricolage Grotesque', sans-serif; */
+    font-size: 13px;
+    color: rgb(232, 225, 225);
+    letter-spacing: 1px;
+}
+#logo{
+    width: 106px;
+    margin-left: 629px;
+    display: flex;
+    height: 50px;
+    background-color: aqua;
+}
+#user{
+    flex: 1;
+    background-color: blue;
+}
+#purchase{
+    flex: 1;
+    background-color: yellow;
+}
+#firstline{
+   width: 1180px;
+   height: 1111px;
+   margin-left: 170px;
+   display: flex;
+   justify-content: space-between;
+   /* background-color: blue; */
+}
+#picolum1{
+    width: 364px;
+    /* flex: 1; */
+    height: 1111px;
+    /* background-color: chartreuse; */
+}
+#picolum2{
+    width: 364px;
+    /* flex: 1; */
+    height: 1111px;
+    /* background-color: red; */
+}
+#picolum3{
+    width: 364px;
+    /* flex: 1; */
+    height: 1111px;
+    /* background-color: yellow; */
+}
+.space{
+    width: 364px;
+    height: 8px;
+}
+#rohil{
+    width: 100%;
+    height: 670px;
+    display: flex;
+    /* background-color: red; */
+}
+#rohilpic{
+    margin-left: 195px;
+    margin-top: 70px;
+}
+#rohilside{
+    width: 500px;
+    height: 240px;
+    margin-top: 100px;
+    margin-left: 70px;
+}
+#notetext{
+    /* margin-left: 80px; */
+    font-size: 26px; 
+    letter-spacing: 2px;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Gabarito', cursive;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Flex', sans-serif; ;
+}
+#rohilname{
+    letter-spacing: 2px;
+    font-size: 18px;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Gabarito', cursive;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Flex', sans-serif; 
+    margin-bottom: 50px;
+}
+#footer{
+    width: 100%;
+    height: 360px;
+    display: flex;
+    background-color: black;
+    border-bottom: rgb(42, 40, 40) solid 1px;
+    justify-content: center;
+    color: white;
+}
+#footertext{
+    width: 200px;
+    height: 300px;
+    letter-spacing: 0.5px;
+    font-size: 18px;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Gabarito', cursive;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Flex', sans-serif; 
+    /* background-color: aqua; */
+}
+#contact{
+    margin-left: 18px;
+    margin-top: 40px;
+    font-size: 22px;
+}
+#num1{
+    margin-top: 29px;
+}
+#num2{
+    margin-top: 29px;
+}
+.numb{
+    color: rgb(164, 161, 161);
+    letter-spacing: 2px;
+    font-size: 16px;
+    
+}
+#numb1{
+    color: rgb(164, 161, 161);
+}
+#email{
+    
+}
+#footlast{
+    width: 100%;
+    height: 130px;
+    background-color: black;
+}
+#atlast{
+    margin-left: 300px;
+    color: rgb(164, 161, 161);
+    padding-top: 50px;
+}
+#button{
+    width: 150px;
+    height: 55px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#aboutus{
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+    color: white;
+    letter-spacing: 3px;
+    font-size: 18px;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Gabarito', cursive;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Flex', sans-serif; 
+}
+#instapic{
+    margin-left: 80px;
+}
